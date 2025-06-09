@@ -3,6 +3,6 @@
     "json-server": "^1.0.0-beta.3"
   },
   "scripts": {
-    "mockApi": "./node_modules/.bin/json-server --watch db.json --port 3000"
+    "mockApi": "node node_modules/json-server/lib/cli/bin.js --watch db.json --port 3000"
   }
 }
