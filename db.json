@@ -363,7 +363,7 @@
       "tinhTrang": "đã duyệt",
       "ketQua": {
         "succes": true,
-        "nguyenVong": "ttnv_001",
+        "nguyenVongDo": "ttnv_001",
         "phuongThucId": "ptxt_001",
         "diem": 27.9
       }
@@ -389,7 +389,7 @@
           "diaChiCuThe": "Số 456, Đường Nguyễn Huệ"
         }
       },
-      "nguyenVong": ["ttnv_003"],
+      "nguyenVongDo": ["ttnv_003"],
       "tinhTrang": "chờ duyệt",
       "ketQua": null,
       "id": "HOSO002bdfqsasdbashkdbsa"
