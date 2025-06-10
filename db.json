@@ -17,7 +17,8 @@
         "xaPhuong": 15010,
         "diaChi": "Số 78, Đường Nguyễn Văn Linh"
       },
-      "id": "admin"
+      "id": "admin",
+      "password": "123456"
     },
     {
       "ho": "Phạm Thị",
@@ -36,7 +37,8 @@
         "xaPhuong": 19615,
         "diaChi": "Số 12, Phố Hàng Gai"
       },
-      "id": "user_001"
+      "id": "user_001",
+      "password": "123456"
     },
     {
       "ho": "Nguyễn Tiến",
@@ -54,7 +56,10 @@
         "xaPhuong": 19261,
         "diaChi": "Số 45, Đường Nguyễn Thị Thập"
       },
-      "id": "user_002"
+      "id": "user_002",
+      "index": 3,
+      "key": 2,
+      "password": "123456"
     }
   ],
   "hocBa": [
@@ -136,6 +141,22 @@
       "userId": "user_002",
       "id": "hb_002",
       "thongTinHocTapId": "ttht_002"
+    },
+    {
+      "id": "b54a",
+      "userId": "admin",
+      "namHoc": "2025-2026",
+      "khoiLop": "10",
+      "diemMonHoc": [
+        {
+          "mon": "Toán",
+          "hocKy": "1",
+          "diemTongKet": 0
+        }
+      ],
+      "loaiHanhKiem": "kém",
+      "xepLoaiHocLuc": "kém",
+      "minhChung": "dcm"
     }
   ],
   "thongTinHocTap": [
@@ -390,7 +411,7 @@
         }
       },
       "nguyenVongDo": ["ttnv_003"],
-      "tinhTrang": "chờ duyệt",
+      "tinhTrang": "đã duyệt",
       "ketQua": null,
       "id": "HOSO002bdfqsasdbashkdbsa"
     }
