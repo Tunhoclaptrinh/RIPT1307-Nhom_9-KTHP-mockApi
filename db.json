@@ -330,8 +330,7 @@
       "diemCoUT": 25.3,
       "diemDoiTuongUT": 0.5,
       "diemKhuVucUT": 0.5,
-      "tongDiem": 25.3,
-      "heDaoTao": "HDT001"
+      "tongDiem": 25.3
     },
     {
       "id": "ttnv_002",
@@ -345,8 +344,7 @@
       "diemCoUT": 25.3,
       "diemDoiTuongUT": 0.5,
       "diemKhuVucUT": 0.5,
-      "tongDiem": 25.3,
-      "heDaoTao": "HDT002"
+      "tongDiem": 25.3
     },
     {
       "id": "ttnv_003",
@@ -360,8 +358,7 @@
       "diemCoUT": 27,
       "diemDoiTuongUT": 0.5,
       "diemKhuVucUT": 0,
-      "tongDiem": 27,
-      "heDaoTao": "HDT002"
+      "tongDiem": 27
     }
   ],
   "hoSo": [
@@ -741,41 +738,6 @@
       "fileUrl": "/files/1749521643821-36104735-491078202_706202932068854_8099198691012728278_n.jpg",
       "fileName": "491078202_706202932068854_8099198691012728278_n.jpg",
       "uploadDate": "2025-06-10T02:14:03.822Z"
-    },
-    {
-      "id": "avatar_1749522063688",
-      "userId": "user_002",
-      "fileUrl": "/files/1749522063686-767325976-493456554_539720729190378_5890227977476099860_n.jpg",
-      "fileName": "493456554_539720729190378_5890227977476099860_n.jpg",
-      "uploadDate": "2025-06-10T02:21:03.688Z"
-    },
-    {
-      "id": "avatar_1749523686116",
-      "userId": "user_001",
-      "fileUrl": "/files/1749523686111-44104111-481661357_500291839799934_1323027883739900990_n.jpg",
-      "fileName": "481661357_500291839799934_1323027883739900990_n.jpg",
-      "uploadDate": "2025-06-10T02:48:06.116Z"
-    },
-    {
-      "id": "avatar_1749524988737",
-      "userId": "admin",
-      "fileUrl": "/files/1749524988729-743729872-491847537_734028188947355_1729775674383644416_n.jpg",
-      "fileName": "491847537_734028188947355_1729775674383644416_n.jpg",
-      "uploadDate": "2025-06-10T03:09:48.737Z"
-    },
-    {
-      "id": "dgnl_1749530305837",
-      "userId": "user_002",
-      "fileUrl": "/files/1749530305827-257960631-ChatGPT Image 15_38_20 15 thg 4, 2025.png",
-      "fileName": "ChatGPT Image 15_38_20 15 thg 4, 2025.png",
-      "uploadDate": "2025-06-10T04:38:25.837Z"
-    },
-    {
-      "id": "giaiHsg_1749531790222",
-      "userId": "user_002",
-      "fileUrl": "/files/1749531790219-122484832-2024-AISOFT_Báº£o máº­t thÃ´ng tin_CÃ¡ nhÃ¢n.docx",
-      "fileName": "2024-AISOFT_Báº£o máº­t thÃ´ng tin_CÃ¡ nhÃ¢n.docx",
-      "uploadDate": "2025-06-10T05:03:10.222Z"
     }
   ]
 }
