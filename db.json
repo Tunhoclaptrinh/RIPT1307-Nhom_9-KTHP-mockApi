@@ -43,12 +43,13 @@
     {
       "ho": "Nguyễn Tiến",
       "ten": "Tuấn 1",
+      "avatar": "/files/1749522063686-767325976-493456554_539720729190378_5890227977476099860_n.jpg",
       "email": "tuannt@gmail.com",
       "soCCCD": "123456",
       "soDT": "123456",
-      "ngayCap": "2025-06-06",
-      "ngaySinh": "2004-06-05",
       "gioiTinh": "nam",
+      "ngaySinh": "2004-06-05",
+      "ngayCap": "2025-06-06",
       "noiCap": "Sở Công an TP.HCM",
       "hoKhauThuongTru": {
         "tinh_ThanhPho": 44,
@@ -56,10 +57,7 @@
         "xaPhuong": 19261,
         "diaChi": "Số 45, Đường Nguyễn Thị Thập"
       },
-      "id": "user_002",
-      "index": 3,
-      "key": 2,
-      "password": "123456"
+      "id": "user_002"
     }
   ],
   "hocBa": [
@@ -104,6 +102,7 @@
       "minhChung": "/uploads/hocba_001.pdf"
     },
     {
+      "userId": "user_002",
       "diemMonHoc": [
         {
           "mon": "Toán",
@@ -137,10 +136,8 @@
         }
       ],
       "loaiHanhKiem": "tốt",
-      "minhChung": "/uploads/hocba_002.pdf",
-      "userId": "user_002",
-      "id": "hb_002",
-      "thongTinHocTapId": "ttht_002"
+      "minhChung": "/files/1749520767891-382276281-Äiá»m thÃ nh pháº§n KNLVN 13.pdf",
+      "id": "hb_002"
     },
     {
       "id": "b54a",
@@ -156,7 +153,7 @@
       ],
       "loaiHanhKiem": "kém",
       "xepLoaiHocLuc": "kém",
-      "minhChung": "dcm"
+      "minhChung": "/files/1749521047644-124949163-Form_report.docx"
     }
   ],
   "thongTinHocTap": [
@@ -354,7 +351,9 @@
       "diemDoiTuongUT": 0.5,
       "diemKhuVucUT": 0,
       "tongDiem": 27,
-      "phuongThucXT": ["Xét tuyển học bạ"]
+      "phuongThucXT": [
+        "Xét tuyển học bạ"
+      ]
     }
   ],
   "hoSo": [
@@ -380,7 +379,10 @@
           "diaChiCuThe": "Số 123, Ngõ 45, Đường Cầu Giấy"
         }
       },
-      "nguyenVong": ["ttnv_001", "ttnv_002"],
+      "nguyenVong": [
+        "ttnv_001",
+        "ttnv_002"
+      ],
       "tinhTrang": "đã duyệt",
       "ketQua": {
         "succes": true,
@@ -410,7 +412,9 @@
           "diaChiCuThe": "Số 456, Đường Nguyễn Huệ"
         }
       },
-      "nguyenVongDo": ["ttnv_003"],
+      "nguyenVongDo": [
+        "ttnv_003"
+      ],
       "tinhTrang": "đã duyệt",
       "ketQua": null,
       "id": "HOSO002bdfqsasdbashkdbsa"
@@ -450,19 +454,35 @@
   "toHop": [
     {
       "id": "A00",
-      "monHoc": ["Toán", "Lý", "Hóa"]
+      "monHoc": [
+        "Toán",
+        "Lý",
+        "Hóa"
+      ]
     },
     {
       "id": "A01",
-      "monHoc": ["Toán", "Lý", "Anh"]
+      "monHoc": [
+        "Toán",
+        "Lý",
+        "Anh"
+      ]
     },
     {
       "id": "D01",
-      "monHoc": ["Toán", "Văn", "Anh"]
+      "monHoc": [
+        "Toán",
+        "Văn",
+        "Anh"
+      ]
     },
     {
       "id": "C00",
-      "monHoc": ["Văn", "Sử", "Địa"]
+      "monHoc": [
+        "Văn",
+        "Sử",
+        "Địa"
+      ]
     }
   ],
   "nganhDaoTao": [
@@ -697,8 +717,38 @@
       }
     ]
   },
-  "userProofs": [],
-  "userCertificates": [],
+  "userProofs": [
+    {
+      "id": "proof_1749520767896",
+      "userId": "user_002",
+      "fileUrl": "/files/1749520767891-382276281-Äiá»m thÃ nh pháº§n KNLVN 13.pdf",
+      "fileName": "Äiá»m thÃ nh pháº§n KNLVN 13.pdf",
+      "uploadDate": "2025-06-10T01:59:27.896Z"
+    },
+    {
+      "id": "proof_1749521047664",
+      "userId": "admin",
+      "fileUrl": "/files/1749521047644-124949163-Form_report.docx",
+      "fileName": "Form_report.docx",
+      "uploadDate": "2025-06-10T02:04:07.664Z"
+    }
+  ],
+  "userCertificates": [
+    {
+      "id": "avatar_1749521643822",
+      "userId": "user_002",
+      "fileUrl": "/files/1749521643821-36104735-491078202_706202932068854_8099198691012728278_n.jpg",
+      "fileName": "491078202_706202932068854_8099198691012728278_n.jpg",
+      "uploadDate": "2025-06-10T02:14:03.822Z"
+    },
+    {
+      "id": "avatar_1749522063688",
+      "userId": "user_002",
+      "fileUrl": "/files/1749522063686-767325976-493456554_539720729190378_5890227977476099860_n.jpg",
+      "fileName": "493456554_539720729190378_5890227977476099860_n.jpg",
+      "uploadDate": "2025-06-10T02:21:03.688Z"
+    }
+  ],
   "userAvatars": [
     {
       "id": "a3f0",
